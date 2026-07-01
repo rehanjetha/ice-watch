@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+
+node_modules/
+dist/
+dist-ssr/
+
+__pycache__/
+*.py[cod]
+
+Ice_Website/node_modules/
+Ice_Website/dist/
+Ice_Website/.vite/
+Ice_Website/*.local
