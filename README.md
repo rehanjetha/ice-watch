@@ -125,6 +125,6 @@ Built and maintained by Rehan Jetha.
 Artem Aleksandryuk contributed early problem research, interviews, ideation
 input, presentation formatting, enclosure development, and 3D printing.
 Kyrillos Yousry contributed early problem research, an interview, concept
-sketches, scoring/rubric input, and housing CAD input. Pirajeet Ahilashen
+sketches, risk-scoring input, and housing CAD input. Pirajeet Ahilashen
 contributed interview-question and survey setup, an interview, feasible-concept
 development, and early UI layout ideas.
